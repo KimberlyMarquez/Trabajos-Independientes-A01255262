@@ -66,8 +66,11 @@ Caso de Prueba 4
 
 ### Función Padding & Convolutionimg
 
-Antes
+### Antes
+
 ![Antes](img/img1.jpg)
+
+### Después
 
 ![Después](img/output.jpg)
 
