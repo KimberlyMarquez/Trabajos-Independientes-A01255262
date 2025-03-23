@@ -1,6 +1,6 @@
 # Trabajos-Independientes-A01255262
 
-### Autor: Kimberly Gabriela Marquez Preciado
+### Autor: Kimberly Gabriela Marquez Preciado | A01255262
 
 ## Descripción
 Este repositorio contiene tres funciones principales relacionadas con el procesamiento de imágenes. Estas funciones fueron implementadas como parte de los conocimientos adquiridos en clase. Las funciones implementadas son:
