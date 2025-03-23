@@ -40,7 +40,39 @@ La función `padding` agrega un borde de ceros alrededor de una imagen o matriz.
 - **Salidas:**
   - `salida`: La matriz con el padding agregado.
 
+## Resultados de Casos de Prueba
+
+### Estos se pueden encontrar en el archivo main.py
+
 ## Ejemplo de Uso
 
 ### Estos se pueden encontrar en el archivo main.py
+
+### Función Convolution
+Caso de Prueba 1
+[[12.  8. -5.]
+ [10.  0. -3.]
+ [ 3.  2.  8.]]
+
+Caso de Prueba 2
+[[12.]]
+
+Caso de Prueba 3
+None
+
+Caso de Prueba 4
+[[-4. -4.]
+ [-4. -4.]]
+
+### Función Padding & Convolutionimg
+
+Antes
+![Antes](img/img1.jpg)
+
+![Después](img/output.jpg)
+
+
+
+ 
+
 
